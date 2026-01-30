@@ -1,0 +1,21 @@
+body{
+  /*background: gray;*/
+  background: url(https://wallpapers.com/images/featured/pink-aura-nm17skhx377r9j38.jpg);
+  background-repeat:no-repeat;
+}
+
+div{
+  background: rgb(234, 163, 237);
+  border: rgb(86, 246, 246);
+  border-width: thick; /* 10 px */
+  border-style: dotted;
+
+  }
+
+p{
+  color: rgb(23, 9, 171);
+}
+span{
+  background: rgb(128, 135, 238);
+  color: rgb(0, 0, 0);
+}
