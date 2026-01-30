@@ -1,0 +1,16 @@
+
+.firstDiv{
+  color: rgb(68, 214, 100);
+}
+
+.secondDiv{
+  background-color: rgb(220, 158, 237);
+}
+
+/* Use an id to single out html elements*/
+
+/* id selectors use a hashtag # */
+#singledout{
+  color: rgb(241, 146, 146);
+  text-decoration: underline;
+}
