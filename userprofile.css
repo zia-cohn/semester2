@@ -1,0 +1,31 @@
+body {
+    background-color: #EEEEEE;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.heading {
+  background: #EEEEEE;
+  border: #DDAED3;
+  color: #213C51;
+  border-width: thick; /* 10 px */
+  border-style: dotted;
+  text-align: center;
+  }
+
+.subheading {
+    color: #6594B1;
+    border: #DDAED3;
+    border-width: thin;
+    border-style: dashed;
+    text-align: center;
+}
+
+img {
+    width: 20;
+    border: #DDAED3;
+    border-width: thick;
+    border-style: groove;
+    text-align: center;
+
+}
